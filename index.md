@@ -4,3 +4,7 @@
 #### So yeah, It'll be so helpfull
 
 ![Cute Mumei pic from random sourch](https://ih1.redbubble.net/image.2662908052.3645/raf,360x360,075,t,fafafa:ca443f4786.jpg)
+
+```
+$ echo "I starting to love this"
+```
